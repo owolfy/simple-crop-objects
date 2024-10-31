@@ -1,0 +1,9 @@
+/be/.idea/
+/be/models/
+/be/runs/
+/be/temp/
+/be/utils/__pycache__
+/be/venv
+/be/main-masks.py
+/fe/node_modules/
+/fe/src/components/VideoCrop.jsx

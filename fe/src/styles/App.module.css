@@ -1,0 +1,18 @@
+.header {
+  padding: 0 5rem;
+}
+
+.timer {
+  padding: 8px;
+  background-color: #f0f0f0;
+  border-radius: 4px;
+  font-size: 14px;
+  color: #666;
+  display: inline-block;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+  padding: 0 5rem 2rem 5rem;
+}
